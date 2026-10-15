@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33500620/README.md)
 # MEZO'POTAMYA TAROT — Yayın Paketi
 
 78 kartlık tarot web uygulaması; soru girme, 3 kart seçimi, yerel yorum, isteğe bağlı yapay zekâ yorumu, Instagram hikâye görseli.
